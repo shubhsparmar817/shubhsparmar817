@@ -16,7 +16,7 @@
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&link=https://github.com/shubhsparmar817/)](https://github.com/shubhsparmar817/)
 
 [![TS-Node](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white&link=https://github.com/shubhsparmar817/)](https://github.com/shubhsparmar817/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/shubhsparmar817/)](https://github.com/shubhsparmar817/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://github.com/shubhsparmar817/)](https://github.com/shubhsparmar817/)
 [![Angular.js](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white&link=https://github.com/shubhsparmar817/)](https://github.com/shubhsparmar817/)
 
 [![Serverless](https://img.shields.io/badge/-Serverless-black?style=flat-square&logo=serverless&link=https://github.com/shubhsparmar817/)](https://github.com/shubhsparmar817/)
